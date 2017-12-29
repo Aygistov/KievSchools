@@ -10,7 +10,6 @@
     "test": "ng test",
     "lint": "tslint ./src/**/*.ts -t verbose",
     "e2e": "ng e2e"
-    //"postinstall": "ng build --aot -prod"
   },
   "keywords": [],
   "author": "",
